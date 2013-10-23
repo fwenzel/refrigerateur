@@ -6,9 +6,11 @@ Scratch that. Not for profit.
 
 How?
 ----
-* Install the add-on.
+* Install the add-on by [clicking on this link in Firefox](https://dl.dropboxusercontent.com/u/18779383/tmp/1310/refrigerateur.xpi). (Better download location to follow soon, bear with me ;) )
 * Browse to http://chat.meatspac.es
 * Look at your default download folder / meatspaces and watch as new gifs keep popping up.
+
+
 
 Caveats
 -------
