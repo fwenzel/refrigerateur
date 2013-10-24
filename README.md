@@ -1,4 +1,4 @@
-Réfrigerateur
+Réfrigérateur
 =============
 
 Collects the GIFs from chat.meatspac.es for great entertainment. And profit.
