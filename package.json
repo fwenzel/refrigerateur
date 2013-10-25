@@ -2,7 +2,7 @@
   "name": "refrigerateur",
   "fullName": "Refrigerateur",
   "id": "jid1-cVICUx7KziH1Gg",
-  "description": "Collects GIFs from meatspaces chat before they disappear",
+  "description": "Collects GIFs from chat.meatspac.es before they disappear",
   "author": "Fred Wenzel <fred@mozilla.com>",
   "license": "MPL 2.0",
   "version": "1.0"
